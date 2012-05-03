@@ -5,7 +5,7 @@
  * 
  * Just think it as a light version of jQuery Validation Plugin. :)
  * Most of it is modified from jQuery Validation Plugin, thanks Jörn Zaefferer for creating such a great plugin.
- * You can read more information about it from blow URLs:
+ * You can read more information about it from below URLs:
  * 
  * http://bassistance.de/jquery-plugins/jquery-plugin-validation/
  * http://docs.jquery.com/Plugins/Validation
